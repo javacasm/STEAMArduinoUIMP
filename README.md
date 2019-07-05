@@ -8,7 +8,50 @@ Universidad Internacional Menendez y Pelayo (UIMP)
 ### https://github.com/javacasm/STEAMArduinoUIMP
 
 
-## Ejemplos
+## ¿qué es STEM?
+
+Para mi es HACER, construir, calcular, controlar
+
+¿componente que nos permite esto? un ordenador, mejor un microordenador, mejor todavía un microcontrolador
+
+
+Veamos algunos ejemplos ¿Qué proyecto nos gustaría montar?
+
+## Ejemplos de proyectos
+
+
+Robotica, domótica, drones
+
+Todos proyectos que suenan
+
+Podemos descargar instrucciones para hacerlos desde internet
+
+Para mi el enfoque STEM consiste en una nueva forma de ver estos proyectos, más profunda que no se queda en el montaje
+
+##  ¿qué necesitamos?
+
+En primer lugar vamos a hablar del rey de los microcontroladores: ARDUINO
+
+TODO: Imagen arduino
+
+(No es el mejor, no es el más barato, ni el más rápido, ni el más fácil de usar)
+
+Pero sí es el que ha permitido que millones de personas consigan hacer lo que antes sólo hacían los ingenieros
+
+Arduino es:
+* Una placa
+* Un entorno de programación, con sus librerías y ejemplos
+* Una documentación
+
+
+TODO Open Source
+
+TODO: imagen open source 
+
+Se creó en [2005](https://es.wikipedia.org/wiki/Arduino) y desde entonces no ha parado de evolucionar, mejorar, crear derivados y dar lugar a una industria enorme
+
+
+## Ejemplos de proyectos STEM
 
 ### Experimentos científicos con micro:bit
 
@@ -41,6 +84,12 @@ https://www.instructables.com/id/DIY-LED-photometer-With-Arduino-for-Physics-or-
 
 ### Monitorización de paneles solares
 
+![SeguidorSolar](./images/SeguidorSolar.png)
+
+Midiendo voltajes, intensidades, potencia y calculando eficiencias/voste
+
+[Ejemplo](https://twitter.com/ToniMorenoRey/status/1125821060836941826)
+
 ### Robot móvil (cochecito)
 
 podemos medir el consumo eléctrico en circuito y trabajar temas de energía, trabajo.
@@ -51,8 +100,24 @@ Medida de cambio de luminosidad
 
 ## Herramientas
 
+### Circuitos y módulos
+
+
+TODO: imágenes de componentes
+
+### Programación
+
 ArduinoBlocks
 
 tinkercad (simulador)
 
+
+## Recursos
+
+https://aprendiendoarduino.wordpress.com/2018/05/06/arduino-en-la-educacion/
+
+
+https://aprendiendoarduino.wordpress.com/2018/05/07/ejemplo-de-itinerario-educativo/
+
+https://aprendiendoarduino.wordpress.com/2019/06/30/saber-mas-gestion-de-proyectos-con-arduino/
 
