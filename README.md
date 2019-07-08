@@ -71,6 +71,24 @@ https://makecode.microbit.org/courses/ucp-science
 ### Física
 Planos inclinados, cinemática, comprobación de leyes fisicas
 
+
+Experimentos sobre calidad de las medidas: precisión, exactitud, errores en la medida, estadística, ...
+
+#### Física del spinner
+conceptos: velocidades, momento angular
+estudiar como influye el momento de inercia en el movimiento
+
+
+#### Comparación de conductividad térmica o cómo explicar las excesivas temperatura de los termómetros callejeros
+
+* sensores de temperatura fijados en una chapa metálica, un plástico y un ladrillo o similar
+* sensor que mide la temperatura a la sombra
+* ponemos al sol las fijaciones y comparamos la temperatura
+
+#### Medidas de conductividad eléctrica en disoluciones
+
+Usamos un sensor de temperatura para medir la conductividad de distintas disoluciones
+
 ### Ingeniería
 Domótica, estructuras, sensores
 
@@ -79,6 +97,8 @@ Domótica, estructuras, sensores
 ### Química
 
 Medida de valores físicos (temperatura, presión, color, ph, ... ) durante las reacciones
+
+
 
 https://www.instructables.com/id/DIY-LED-photometer-With-Arduino-for-Physics-or-Che/
 
