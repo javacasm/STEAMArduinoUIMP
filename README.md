@@ -28,6 +28,8 @@ Podemos descargar instrucciones para hacerlos desde internet
 
 Para mi el enfoque STEM consiste en una nueva forma de ver estos proyectos, más profunda que no se queda en el montaje
 
+TODO: Rollo del cohete
+
 ##  ¿qué necesitamos?
 
 En primer lugar vamos a hablar del rey de los microcontroladores: ARDUINO
@@ -112,8 +114,18 @@ Midiendo voltajes, intensidades, potencia y calculando eficiencias/voste
 
 ### Robot móvil (cochecito)
 
-podemos medir el consumo eléctrico en circuito y trabajar temas de energía, trabajo.
+Podemos medir el consumo eléctrico en circuito y trabajar temas de energía, trabajo.
+
 Hacer un simulador: el coche fijo y podemos ajustar el rozamiento y medimos lo que le dura y la carga
+
+En lugar de usar el típico cochecito...
+
+![chasis-para-robots.jpg](./images/chasis-para-robots.jpg)
+
+Algo que inspire más
+
+
+![Curiosity](./images/MiCuriosity.jpg)
 
 ### planetas  extrasolares
 Medida de cambio de luminosidad
