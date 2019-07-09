@@ -53,6 +53,12 @@ TODO: imagen open source
 Se creó en [2005](https://es.wikipedia.org/wiki/Arduino) y desde entonces no ha parado de evolucionar, mejorar, crear derivados y dar lugar a una industria enorme
 
 
+### Impresión 3D
+
+
+TODO: impresoras
+
+TODO: diseño, prototipado
 
 ### Física
 Planos inclinados, cinemática, comprobación de leyes fisicas
@@ -60,10 +66,17 @@ Planos inclinados, cinemática, comprobación de leyes fisicas
 
 Experimentos sobre calidad de las medidas: precisión, exactitud, errores en la medida, estadística, ...
 
-#### Física del spinner
+#### [Física del spinner](https://github.com/javacasm/Spinners)
 conceptos: velocidades, momento angular
 estudiar como influye el momento de inercia en el movimiento
 
+##### Diseñando
+
+![diseño de spinners](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxogs60SqlRkzQ2lfYkqjJi6KFD-87CkpfT4f0t0QZ-VydqTdrfQ)
+
+##### Controlando
+
+![Spinners](https://github.com/javacasm/Spinners/raw/master/images/Montaje_testBench.jpg)
 
 #### Comparación de conductividad térmica o cómo explicar las excesivas temperatura de los termómetros callejeros
 
