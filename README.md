@@ -125,7 +125,7 @@ En lugar de usar el típico cochecito...
 Algo que inspire más
 
 
-![Curiosity](./images/MiCuriosity.jpg)
+![Curiosity](./images/MiCuriosity.png)
 
 ### planetas  extrasolares
 Medida de cambio de luminosidad
