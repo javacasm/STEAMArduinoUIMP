@@ -53,22 +53,6 @@ TODO: imagen open source
 Se creó en [2005](https://es.wikipedia.org/wiki/Arduino) y desde entonces no ha parado de evolucionar, mejorar, crear derivados y dar lugar a una industria enorme
 
 
-## Ejemplos de proyectos STEM
-
-### Experimentos científicos con micro:bit
-
-* [Recolección de datos](https://makecode.microbit.org/courses/ucp-science/data-collection)
-* [Tratamiento de datos](https://makecode.microbit.org/courses/ucp-science/population)
-* [Medidas de Temperatura](https://makecode.microbit.org/courses/ucp-science/temperature)
-* [Comprobación de la humedad del suelo](https://makecode.microbit.org/courses/ucp-science/soil-moisture)
-* [Gravedad, movimiento y  ondas](https://makecode.microbit.org/courses/ucp-science/gravity)
-* [Conductividad del cuerpo](https://makecode.microbit.org/courses/ucp-science/electricity)
-* [Electricidad y comprobador de baterías](https://makecode.microbit.org/courses/ucp-science/electricity)
-* [Aceleración de cohetes](https://makecode.microbit.org/courses/ucp-science/rocket-acceleration)
-
-https://makecode.microbit.org/courses/ucp-science  
-
-https://makecode.microbit.org/courses/ucp-science   
 
 ### Física
 Planos inclinados, cinemática, comprobación de leyes fisicas
@@ -142,6 +126,23 @@ TODO: imágenes de componentes
 ArduinoBlocks
 
 tinkercad (simulador)
+
+## Ejemplos de proyectos STEM para otros dispositivos
+
+### Experimentos científicos con micro:bit
+
+* [Recolección de datos](https://makecode.microbit.org/courses/ucp-science/data-collection)
+* [Tratamiento de datos](https://makecode.microbit.org/courses/ucp-science/population)
+* [Medidas de Temperatura](https://makecode.microbit.org/courses/ucp-science/temperature)
+* [Comprobación de la humedad del suelo](https://makecode.microbit.org/courses/ucp-science/soil-moisture)
+* [Gravedad, movimiento y  ondas](https://makecode.microbit.org/courses/ucp-science/gravity)
+* [Conductividad del cuerpo](https://makecode.microbit.org/courses/ucp-science/electricity)
+* [Electricidad y comprobador de baterías](https://makecode.microbit.org/courses/ucp-science/electricity)
+* [Aceleración de cohetes](https://makecode.microbit.org/courses/ucp-science/rocket-acceleration)
+
+https://makecode.microbit.org/courses/ucp-science  
+
+
 
 
 ## Recursos
