@@ -184,21 +184,31 @@ Algo que inspire más
 
 ![Curiosity](./images/MiCuriosity.png)
 
-### planetas  extrasolares
-Medida de cambio de luminosidad
+### Detección de planetas  extrasolares
+
+Medida de cambio de luminosidad o método del tránsito
+
+![transito.jpg](./images/transito.jpg)
+
 
 ## Herramientas
 
-### Circuitos y módulos
+### [Circuitos y módulos](./Componentes.md)
 
+Podemos usar módulos que vienen preparados para conectar, sin tener que soldarlos
 
-TODO: imágenes de componentes
+![wholesale-37-in-1-box-kits-de-sensor-37-sensor.jpg](./images/wholesale-37-in-1-box-kits-de-sensor-37-sensor.jpg)
 
 ### Programación
 
-ArduinoBlocks
+[### ArduinoBlocks](http://arduinoblocks.comprobador)
 
-tinkercad (simulador)
+![Arduinoblocks.jpg](./images/Arduinoblocks.jpg)
+
+[### Tinkercad crcuits](https://www.tinkercad.com/dashboard?type=circuits&collection=designs) (incluye simulador)
+
+![Tinkercad](./images/Tinkercad.png)
+
 
 ## Ejemplos de proyectos STEM para otros dispositivos
 
