@@ -1,34 +1,60 @@
 # Aprendizaje activo y significativo en aulas STEM
 ## Fomenta el pensamiento STEM haciendo robótica con Arduino
+### Y con 3D y con micro:bit ....
 
-Universidad Internacional Menendez y Pelayo (UIMP)
+### Universidad Internacional Menendez y Pelayo (UIMP)
 
 ### José Antonio Vacas Martínez @javacasm
 
-### https://github.com/javacasm/STEAMArduinoUIMP
+### http://bit.ly/STEMUIMP
+
+![Licencia](./images/Licencia_CC.png)
+
+### ¿Qué es para mi STEM?
+
+#### Para mi es HACER, construir, calcular, controlar
+
+#### ¿Qué nos permite hacer y contruir?
+
+#### El Diseño 3Domótica
+
+![IronMan3d.jpg](./images/IronMan3d.jpg)
 
 
-## ¿qué es STEM?
+#### ... y las impresoras 3D
 
-Para mi es HACER, construir, calcular, controlar
+![iron mask](./images/IMG_20190628_112240.jpg)
 
-¿componente que nos permite esto? un ordenador, mejor un microordenador, mejor todavía un microcontrolador
-
-
-Veamos algunos ejemplos ¿Qué proyecto nos gustaría montar?
-
-## Ejemplos de proyectos
+#### ¿Qué componente nos permite controlar? un ordenador, mejor un microordenador, mejor todavía un microcontrolador
 
 
-Robotica, domótica, drones
+![Arduino](./images/Arduino_Uno_-_R3.jpg)
 
-Todos proyectos que suenan
+#### Veamos algunos ejemplos ¿Qué proyecto nos gustaría montar?
 
-Podemos descargar instrucciones para hacerlos desde internet
+#### Ejemplos de proyectos
 
-Para mi el enfoque STEM consiste en una nueva forma de ver estos proyectos, más profunda que no se queda en el montaje
+* Robótica, 
+* Domótica, 
+* Drones
 
-TODO: Rollo del cohete
+#### Todos proyectos que suenan
+
+#### Podemos descargar instrucciones para hacerlos desde internet
+
+
+### Pero ....
+
+#### El enfoque STEM es una nueva forma de ver estos proyectos, 
+### más profunda ...
+### que no se queda en el montaje
+
+
+![cohete](./images/)
+
+
+## Si les enseñas un robot querrán hacerlo, enséñales un cohete espacial y no límites sus sueños 
+
 
 ##  ¿qué necesitamos?
 
