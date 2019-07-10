@@ -201,11 +201,11 @@ Podemos usar módulos que vienen preparados para conectar, sin tener que soldarl
 
 ### Programación
 
-[### ArduinoBlocks](http://arduinoblocks.comprobador)
+### [ ArduinoBlocks](http://arduinoblocks.comprobador)
 
 ![Arduinoblocks.jpg](./images/Arduinoblocks.jpg)
 
-[### Tinkercad crcuits](https://www.tinkercad.com/dashboard?type=circuits&collection=designs) (incluye simulador)
+### [Tinkercad crcuits](https://www.tinkercad.com/dashboard?type=circuits&collection=designs) (incluye simulador)
 
 ![Tinkercad](./images/Tinkercad.png)
 
