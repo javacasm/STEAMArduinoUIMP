@@ -10,43 +10,59 @@
 
 ![Licencia](./images/Licencia_CC.png)
 
-### ¿Qué es para mi STEM?
+## ¿Qué es para mi STEM?
 
-####            Para mi es HACER, construir, calcular, controlar
+###            Para mi es HACER, construir, calcular, controlar
 
-#### ¿Qué nos permite hacer y contruir?
+### ¿Qué nos permite hacer y contruir?
 
-####            El Diseño 3Domótica
+###            El Diseño 3Domótica
 
 ![IronMan3d.jpg](./images/IronMan3d.jpg)
 
 
-####            ... y las impresoras 3D
+###            ... y las impresoras 3D
 
 ![iron mask](./images/IMG_20190628_112240.jpg)
 
-#### ¿Qué componente nos permite controlar? un ordenador, mejor un microordenador, mejor todavía un microcontrolador
+### ¿Qué componente nos permite controlar? 
 
+#### un ordenador, 
+#### mejor un microordenador, 
+#### mejor todavía un microcontrolador
 
 ![Arduino](./images/Arduino_Uno_-_R3.jpg)
 
-#### Veamos algunos ejemplos ¿Qué proyecto nos gustaría montar?
+### Veamos algunos ejemplos ¿Qué proyecto nos gustaría montar?
 
-#### Ejemplos de proyectos
+### Ejemplos de proyectos
 
 * Robótica, 
 * Domótica, 
 * Drones
 
-#### Todos proyectos que suenan
+### Todos proyectos que suenan
 
-#### Podemos descargar instrucciones para hacerlos desde internet
+### Podemos descargar instrucciones para hacerlos desde internet
 
 ### Pero ....
 
-#### El enfoque STEM es una nueva forma de ver estos proyectos, 
-### más profunda ...
-### que no se queda en el montaje
+## El enfoque STEM es una nueva forma de ver estos proyectos, 
+## más profunda ...
+## que no se queda en el montaje
+
+### Un ejemplo: cohetes de agua
+
+![bottle-launcher-aquapod.gif](./images/bottle-launcher-aquapod.gif)
+
+### ¿Y si lo fotografiamos a cámara lenta con lentes polarizadas?
+
+[cohete de agua a cámara lenta](https://twitter.com/ciencia__infusa/status/1148528045835399169)
+
+### Que nos recuerda a ....
+
+
+![Raptor-testing-2018-SpaceX-2.gif](./images/Raptor-testing-2018-SpaceX-2.gif)
 
 
 ![cohete](./images/falcon9_landing.gif)
@@ -56,66 +72,71 @@
 
 ## Si les enseñas un robot querrán hacerlo, enséñales un cohete espacial y no límites sus sueños 
 
-#### Un ejemplo: cohetes de agua
 
-![bottle-launcher-aquapod.gif](./images/bottle-launcher-aquapod.gif)
+##  ¿Qué necesitamos?
 
-#### ¿Y si lo fotografiamos a cámara lenta con lentes polarizadas?
+## El rey de los microcontroladores: ARDUINO
 
-[cohete de agua a cámara lenta](https://twitter.com/ciencia__infusa/status/1148528045835399169)
+![Arduino](./images/Arduino_Uno_-_R3.jpg)
 
-#### Que nos recuerda a ....
+### No es el mejor, 
+### no es el más barato, 
+### ni el más rápido, 
+### ni el más fácil de usar
 
+## Ha permitido que millones de personas consigan hacer lo que antes sólo hacían los ingenieros
 
-![Raptor-testing-2018-SpaceX-2.gif](./images/Raptor-testing-2018-SpaceX-2.gif)
-
-##  ¿qué necesitamos?
-
-En primer lugar vamos a hablar del rey de los microcontroladores: ARDUINO
-
-TODO: Imagen arduino
-
-(No es el mejor, no es el más barato, ni el más rápido, ni el más fácil de usar)
-
-Pero sí es el que ha permitido que millones de personas consigan hacer lo que antes sólo hacían los ingenieros
-
-Arduino es:
+### Arduino es:
 * Una placa
 * Un entorno de programación, con sus librerías y ejemplos
 * Una documentación
 
 
-TODO Open Source
+## TODO Open Source
 
-TODO: imagen open source 
+![200px-Open-source-hardware-logo.svg.png](./images/200px-Open-source-hardware-logo.svg.png)
 
-Se creó en [2005](https://es.wikipedia.org/wiki/Arduino) y desde entonces no ha parado de evolucionar, mejorar, crear derivados y dar lugar a una industria enorme
+### Se creó en [2005](https://es.wikipedia.org/wiki/Arduino) 
+### Desde entonces no ha parado de 
+* evolucionar, 
+* mejorar, 
+* crear derivados 
+* Abaratarse 
+* y dar lugar a una industria enorme
 
-
-### Impresión 3D
-
-
-TODO: impresoras
-
-TODO: diseño, prototipado
+## Ideas de proyectos vistos como STEM
 
 ### Física
-Planos inclinados, cinemática, comprobación de leyes fisicas
+
+[Planos inclinados, cinemática](http://www.iesveleta.com/actividades/proyecto-educativo-con-robots-cinematica-con-arduino/), comprobación de leyes fisicas
+
+![plano inclinado](./images/Arduino-PlanoInclinado-02.jpg)
 
 
 Experimentos sobre calidad de las medidas: precisión, exactitud, errores en la medida, estadística, ...
 
-#### [Física del spinner](https://github.com/javacasm/Spinners)
-conceptos: velocidades, momento angular
-estudiar como influye el momento de inercia en el movimiento
+### [Física del spinner](https://github.com/javacasm/Spinners)
 
-##### Diseñando
+Conceptos: 
+* velocidad, 
+* momento angular
+* momento de inercia
+
+##### Estudiamos como influye el momento de inercia en el movimiento
+
+#### Diseñando
 
 ![diseño de spinners](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxogs60SqlRkzQ2lfYkqjJi6KFD-87CkpfT4f0t0QZ-VydqTdrfQ)
 
-##### Controlando
+#### Controlando
 
 ![Spinners](https://github.com/javacasm/Spinners/raw/master/images/Montaje_testBench.jpg)
+
+
+#### Midiendo
+
+
+![chart](https://github.com/javacasm/Spinners/raw/master/images/1er_test.jpg)
 
 #### Comparación de conductividad térmica o cómo explicar las excesivas temperatura de los termómetros callejeros
 
@@ -135,8 +156,6 @@ Domótica, estructuras, sensores
 ### Química
 
 Medida de valores físicos (temperatura, presión, color, ph, ... ) durante las reacciones
-
-
 
 https://www.instructables.com/id/DIY-LED-photometer-With-Arduino-for-Physics-or-Che/
 
