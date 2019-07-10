@@ -115,6 +115,8 @@
 
 Experimentos sobre calidad de las medidas: precisión, exactitud, errores en la medida, estadística, ...
 
+![charts](https://httpsak-a.akamaihd.net/62009828001/62009828001_5076079012001_5076041548001-vs.jpg?pubId=62009828001&videoId=5076041548001)
+
 ### [Física del spinner](https://github.com/javacasm/Spinners)
 
 Conceptos: 
