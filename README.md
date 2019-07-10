@@ -12,16 +12,16 @@
 
 ### ¿Qué es para mi STEM?
 
-#### Para mi es HACER, construir, calcular, controlar
+####            Para mi es HACER, construir, calcular, controlar
 
 #### ¿Qué nos permite hacer y contruir?
 
-#### El Diseño 3Domótica
+####            El Diseño 3Domótica
 
 ![IronMan3d.jpg](./images/IronMan3d.jpg)
 
 
-#### ... y las impresoras 3D
+####            ... y las impresoras 3D
 
 ![iron mask](./images/IMG_20190628_112240.jpg)
 
@@ -42,7 +42,6 @@
 
 #### Podemos descargar instrucciones para hacerlos desde internet
 
-
 ### Pero ....
 
 #### El enfoque STEM es una nueva forma de ver estos proyectos, 
@@ -57,6 +56,18 @@
 
 ## Si les enseñas un robot querrán hacerlo, enséñales un cohete espacial y no límites sus sueños 
 
+#### Un ejemplo: cohetes de agua
+
+![bottle-launcher-aquapod.gif](./images/bottle-launcher-aquapod.gif)
+
+#### ¿Y si lo fotografiamos a cámara lenta con lentes polarizadas?
+
+[cohete de agua a cámara lenta](https://twitter.com/ciencia__infusa/status/1148528045835399169)
+
+#### Que nos recuerda a ....
+
+
+![Raptor-testing-2018-SpaceX-2.gif](./images/Raptor-testing-2018-SpaceX-2.gif)
 
 ##  ¿qué necesitamos?
 
