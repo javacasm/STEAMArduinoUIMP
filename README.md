@@ -50,7 +50,9 @@
 ### que no se queda en el montaje
 
 
-![cohete](./images/)
+![cohete](./images/falcon9_landing.gif)
+
+![cohete](./images/2xFalcon9.gif)
 
 
 ## Si les enseñas un robot querrán hacerlo, enséñales un cohete espacial y no límites sus sueños 
