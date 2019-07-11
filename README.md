@@ -38,6 +38,10 @@
 
 #### ¿a qué temperatura sale el agua de la ducha del hotel?
 
+Como ejercicio un sencillo termómetro programado con @ArduinoBlocks donde usábamos un sensor de temperatura estanco DS18b20 con el que he medido la temperatura del agua fría y caliente del hotel. Resultado: 23,44º y 64.25º
+!
+El proyecto que hemos usado es http://www.arduinoblocks.com/web/project/155842
+
 
 ### ¿Qué componente nos permite controlar? 
 
