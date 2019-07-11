@@ -12,18 +12,26 @@
 
 ## ¿Qué es para mi STEM?
 
-###            Para mi es HACER, construir, calcular, controlar
+### Para mi es HACER, construir, calcular, controlar
 
 ### ¿Qué nos permite hacer y contruir?
 
-###            El Diseño 3Domótica
+### El [Diseño 3D](https://github.com/javacasm/3DCiencias19/blob/master/Disenio3D.md)
 
 ![IronMan3d.jpg](./images/IronMan3d.jpg)
 
-
-###            ... y las impresoras 3D
+### ... y las [impresoras 3D](https://github.com/javacasm/3DCiencias19)
 
 ![iron mask](./images/IMG_20190628_112240.jpg)
+
+### Es calcular...
+
+#### Enseñarles a calcular
+
+#### ¿cuántos Kg CO<sub>2</sub> nos "cuesta" un curso de verano si todos venimos en avión? ¿y si venimos en coche?
+[Guía práctica para el cálculo de emisiones](http://www.caib.es/sacmicrofront/archivopub.do?ctrl=MCRST234ZI97531&id=97531)
+
+(340Kg vs 297Kg en mi caso)
 
 ### ¿Qué componente nos permite controlar? 
 
@@ -101,7 +109,7 @@
 * evolucionar, 
 * mejorar, 
 * crear derivados 
-* Abaratarse 
+* abaratarse 
 * y dar lugar a una industria enorme
 
 ## Ideas de proyectos vistos como STEM
