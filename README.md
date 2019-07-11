@@ -33,6 +33,12 @@
 
 (340Kg vs 297Kg en mi caso)
 
+### Enseñarles a medir
+
+
+#### ¿a qué temperatura sale el agua de la ducha del hotel?
+
+
 ### ¿Qué componente nos permite controlar? 
 
 #### un ordenador, 
